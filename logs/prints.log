@@ -1,0 +1,5 @@
+14:40:09.534 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x53441f1b48b7b099
+14:40:31.836 [main] INFO  resource.base - Driver is initialized
+14:40:31.947 [main] INFO  resource.base - Successfully validated Text message
+14:40:44.161 [main] INFO  resource.base - Restrcited User
+14:40:46.809 [main] INFO  resource.base - Non restricted user
